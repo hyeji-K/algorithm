@@ -37,6 +37,7 @@
 		104CC3382A5C446B0030F4A0 /* 15.구슬을나누는경우의수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15.구슬을나누는경우의수.swift"; sourceTree = "<group>"; };
 		104CC33A2A5D489C0030F4A0 /* 16.배열회전시키기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16.배열회전시키기.swift"; sourceTree = "<group>"; };
 		104CC33B2A5D48DE0030F4A0 /* 17.공던지기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17.공던지기.swift"; sourceTree = "<group>"; };
+		104CC3542A5EEAE40030F4A0 /* 18.합성수찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18.합성수찾기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 				104CC3382A5C446B0030F4A0 /* 15.구슬을나누는경우의수.swift */,
 				104CC33A2A5D489C0030F4A0 /* 16.배열회전시키기.swift */,
 				104CC33B2A5D48DE0030F4A0 /* 17.공던지기.swift */,
+				104CC3542A5EEAE40030F4A0 /* 18.합성수찾기.swift */,
 			);
 			path = algorithm_level0;
 			sourceTree = "<group>";
