@@ -26,6 +26,7 @@
 		1044AC952B40F7F100189F02 /* baekjoonsols */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonsols; sourceTree = BUILT_PRODUCTS_DIR; };
 		1044AC982B40F7F100189F02 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		10A443452B56A19300E395AF /* 18870.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 18870.swift; sourceTree = "<group>"; };
+		10A443482B577B4F00E395AF /* 11659.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11659.swift; sourceTree = "<group>"; };
 		10C1CEE12B439CAD000A6B99 /* 1919.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1919.swift; sourceTree = "<group>"; };
 		10C1CEE32B43A69D000A6B99 /* 1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1157.swift; sourceTree = "<group>"; };
 		10C1CEF72B443EE5000A6B99 /* 1543.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1543.swift; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				1044AC982B40F7F100189F02 /* main.swift */,
+				10A443482B577B4F00E395AF /* 11659.swift */,
 				10A443452B56A19300E395AF /* 18870.swift */,
 				10DEFCA12B555A9500654B06 /* 1302.swift */,
 				10DEFCA02B554AAF00654B06 /* 7785.swift */,
