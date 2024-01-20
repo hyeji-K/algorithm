@@ -33,6 +33,7 @@
 		10A443792B5A5C2B00E395AF /* 19951*.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19951*.swift"; sourceTree = "<group>"; };
 		10A4437A2B5A62D100E395AF /* 11660**.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11660**.swift"; sourceTree = "<group>"; };
 		10A4437F2B5B6EED00E395AF /* 2295.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2295.swift; sourceTree = "<group>"; };
+		10A443802B5B711B00E395AF /* FastIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastIO.swift; sourceTree = "<group>"; };
 		10C1CEE12B439CAD000A6B99 /* 1919.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1919.swift; sourceTree = "<group>"; };
 		10C1CEE32B43A69D000A6B99 /* 1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1157.swift; sourceTree = "<group>"; };
 		10C1CEF72B443EE5000A6B99 /* 1543.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1543.swift; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				1044AC982B40F7F100189F02 /* main.swift */,
+				10A443802B5B711B00E395AF /* FastIO.swift */,
 				10A4437F2B5B6EED00E395AF /* 2295.swift */,
 				10A4437A2B5A62D100E395AF /* 11660**.swift */,
 				10A443792B5A5C2B00E395AF /* 19951*.swift */,
