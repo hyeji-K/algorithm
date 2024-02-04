@@ -30,6 +30,7 @@
 		1027FFEA2B69D0D300312E3C /* 1764.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1764.swift; sourceTree = "<group>"; };
 		1044AC952B40F7F100189F02 /* baekjoonsols */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonsols; sourceTree = BUILT_PRODUCTS_DIR; };
 		1044AC982B40F7F100189F02 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		106F2A632B6FDB0A00AEC19D /* 1475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1475.swift; sourceTree = "<group>"; };
 		10A443452B56A19300E395AF /* 18870.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 18870.swift; sourceTree = "<group>"; };
 		10A443482B577B4F00E395AF /* 11659.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11659.swift; sourceTree = "<group>"; };
 		10A443492B57AECF00E395AF /* 16713.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16713.swift; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				1044AC982B40F7F100189F02 /* main.swift */,
+				106F2A632B6FDB0A00AEC19D /* 1475.swift */,
 				102700862B6E7C3700312E3C /* 2446.swift */,
 				102700522B6D11AF00312E3C /* 10986.swift */,
 				1027002F2B6BD91900312E3C /* 25192.swift */,
