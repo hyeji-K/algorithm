@@ -28,6 +28,7 @@
 		102700522B6D11AF00312E3C /* 10986.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10986.swift; sourceTree = "<group>"; };
 		102700862B6E7C3700312E3C /* 2446.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2446.swift; sourceTree = "<group>"; };
 		1027FFEA2B69D0D300312E3C /* 1764.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1764.swift; sourceTree = "<group>"; };
+		10332E222B7116D4006AD2C9 /* 7795.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7795.swift; sourceTree = "<group>"; };
 		1044AC952B40F7F100189F02 /* baekjoonsols */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonsols; sourceTree = BUILT_PRODUCTS_DIR; };
 		1044AC982B40F7F100189F02 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		106F2A632B6FDB0A00AEC19D /* 1475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1475.swift; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				1044AC982B40F7F100189F02 /* main.swift */,
+				10332E222B7116D4006AD2C9 /* 7795.swift */,
 				106F2A632B6FDB0A00AEC19D /* 1475.swift */,
 				102700862B6E7C3700312E3C /* 2446.swift */,
 				102700522B6D11AF00312E3C /* 10986.swift */,
