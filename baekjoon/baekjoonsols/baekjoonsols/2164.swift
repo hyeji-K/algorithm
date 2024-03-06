@@ -21,3 +21,24 @@ while num.count > 1 {
 }
 
 print(num)
+
+
+// 다시 풀기
+let input = Int(readLine()!)!
+var num: [Int] = Array(1...input)
+var tmp = 0
+
+if input == 1 {
+    print(1)
+} else {
+    while true {
+        num[tmp] = 0
+        num.append(num[tmp + 1])
+        num[tmp + 1] = 0
+        if num[num.count - 2] == 0 {
+            print(num.last!)
+            break
+        }
+        tmp += 2
+    }
+}
